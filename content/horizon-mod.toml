@@ -1,0 +1,11 @@
+# Port-owned content mod for the Nature's Aura 41.10 slice: the aura bloom, the
+# nature's altar, its gold bricks and the three materials the no-catalyst altar
+# recipes make. The models, textures, blockstates, lang file, loot tables,
+# recipes and altar_* tags are upstream's own MIT assets, read from the exact
+# ATM10 jar (see ../FINDINGS.md §1 and ../../_shared/carry-work/naturesaura/SOURCE.md).
+id = "naturesaura"
+name = "Nature's Aura"
+version = "0.1.0"
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

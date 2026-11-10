@@ -1,0 +1,17 @@
+{
+  "key": {
+    "G": "minecraft:short_grass",
+    "L": "#minecraft:leaves",
+    "N": "#c:nuggets/gold"
+  },
+  "pattern": [
+    "LNL",
+    "NGN",
+    "LNL"
+  ],
+  "result": {
+    "count": 4,
+    "id": "naturesaura:gold_fiber"
+  },
+  "type": "minecraft:crafting_shaped"
+}

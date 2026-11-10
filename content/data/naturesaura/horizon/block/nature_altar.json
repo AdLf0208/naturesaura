@@ -1,0 +1,34 @@
+{
+  "collision_shapes": {
+    "default": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.75,
+        1.0
+      ]
+    ]
+  },
+  "properties": {
+    "explosion_resistance": 4.0,
+    "hardness": 4.0,
+    "occludes": false,
+    "requires_tool": true,
+    "sounds": "minecraft:stone"
+  },
+  "shapes": {
+    "default": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.75,
+        1.0
+      ]
+    ]
+  },
+  "template": "minecraft:stone"
+}

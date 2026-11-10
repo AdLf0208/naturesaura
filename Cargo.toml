@@ -1,0 +1,17 @@
+[package]
+# Ported from: Nature's Aura 41.10 (Ellpeck/NaturesAura, MIT), Minecraft Java
+# 1.21.1 NeoForge. Local-only until the maintainer approves publishing.
+name = "horizon-naturesaura"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.95"
+license = "MIT"
+description = "Nature's Aura for Horizon: aura drain spots, the aura bloom and the nature's altar"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/naturesaura/runtime.rs"
+
+[workspace]
+members = ["tools/audit"]
+resolver = "2"

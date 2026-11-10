@@ -1,0 +1,24 @@
+{
+  "collision_shapes": {
+    "default": []
+  },
+  "properties": {
+    "explosion_resistance": 0.0,
+    "hardness": 0.0,
+    "requires_tool": false,
+    "sounds": "minecraft:grass_block"
+  },
+  "shapes": {
+    "default": [
+      [
+        0.3125,
+        0.0,
+        0.3125,
+        0.6875,
+        0.625,
+        0.6875
+      ]
+    ]
+  },
+  "template": "minecraft:poppy"
+}

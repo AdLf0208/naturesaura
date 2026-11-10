@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "explosion_resistance": 1.75,
+    "hardness": 1.75,
+    "requires_tool": true,
+    "sounds": "minecraft:stone"
+  },
+  "template": "minecraft:stone"
+}

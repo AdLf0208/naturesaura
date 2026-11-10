@@ -1,0 +1,13 @@
+{
+  "icon": "naturesaura:nature_altar",
+  "items": [
+    "naturesaura:aura_bloom",
+    "naturesaura:nature_altar",
+    "naturesaura:gold_brick",
+    "naturesaura:infused_stone",
+    "naturesaura:infused_iron",
+    "naturesaura:tainted_gold",
+    "naturesaura:gold_fiber"
+  ],
+  "title": "item_group.naturesaura.tab"
+}
